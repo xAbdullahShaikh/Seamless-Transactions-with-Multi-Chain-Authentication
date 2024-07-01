@@ -1,6 +1,6 @@
-# Seamless-Transactions-with-Multi-Chain-Authentication
-# Project Description: Secure Blockchain-Based Marketplace
-# This project is a secure blockchain-based marketplace system that utilizes MultiChain technology to manage user credentials, product records, and transaction histories. The system ensures secure storage and handling of user data and transaction details through cryptographic hashing and blockchain publication. It offers functionalities for user registration, authentication, product management, and secure transactions.
+# Secure Blockchain-Based Marketplace
+Project Description: 
+This project is a secure blockchain-based marketplace system that utilizes MultiChain technology to manage user credentials, product records, and transaction histories. The system ensures secure storage and handling of user data and transaction details through cryptographic hashing and blockchain publication. It offers functionalities for user registration, authentication, product management, and secure transactions.
 ________________________________________________________________________________________________________________________________
 ![image](https://github.com/xAbdullahShaikh/Seamless-Transactions-with-Multi-Chain-Authentication/assets/123714247/23c1c7ff-97f6-4bbf-8d08-fdce6223963e)
 ________________________________________________________________________________________________________________________________
@@ -17,3 +17,4 @@ ________________________________________________________________________________
 ![image](https://github.com/xAbdullahShaikh/Seamless-Transactions-with-Multi-Chain-Authentication/assets/123714247/68a8fb2d-8531-4dcb-bed6-22cf26141598)
 ________________________________________________________________________________________________________________________________
 ![image](https://github.com/xAbdullahShaikh/Seamless-Transactions-with-Multi-Chain-Authentication/assets/123714247/c6cbbd2a-81e5-43d7-a207-6abedd90d699)
+________________________________________________________________________________________________________________________________
